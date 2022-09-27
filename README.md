@@ -1,1 +1,1 @@
-Links to the pages of the study material (git, JS, agile, etc).  
+Links to the pages where I got the study material from (git, JS, agile, etc).  
